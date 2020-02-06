@@ -1,0 +1,66 @@
+table.meniu {
+    text-align: left;
+    background-color: #B7C7FF;
+    border:3px inset black;
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border-width: 3px;
+    border-style: double;
+    border-color: grey;
+    padding: 1px;
+    background-color: black;
+	border-radius: 8px;
+}
+table.backlink {  
+    margin-left:auto; 
+    margin-right:auto;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border-width: 13px;
+    border-style: solid;
+    border-color: red;    
+    background-color: cyan;   
+}
+body {
+    text-align:center;
+	background-image: url("../pictures/dic.jpg");
+}   
+form.login {
+    margin-bottom:0;
+    padding:6px; 
+    background-color:#8490fa; 
+    border:3px outset black;     
+	border-radius: 8px;
+}
+input.s1 {   
+    width:100%;
+    font-size:13pt;
+    text-align:left;
+}
+a:link, a:visited {
+	background-color: #5D2DC4;
+  	color: white;
+  	padding: 9px 20px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+	border-style: solid;
+	border-color: #5D2DC4;
+	border-radius: 8px;
+}
+a:hover, a:active {
+  	background-color: #7845e6;
+	border-color: #7845e6;
+	border-radius: 8px;
+}
+h1.login {
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 60px;
+	font-style: italic;
+	color: #cacffc;
+}

@@ -1,0 +1,2 @@
+Vartotojai: Administratorius, Destytojas, Studentas
+Visu slaptazodziai tie patys: demo
